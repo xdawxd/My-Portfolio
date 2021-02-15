@@ -13,7 +13,7 @@ AWS (R3/RDS)
 ```
 ### Front-end
 ```bash
-  Java Script
+  JavaScript
   React
   HTML/CSS
 ```
